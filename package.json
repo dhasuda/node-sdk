@@ -1,0 +1,14 @@
+{
+  "name": "node-sdk",
+  "version": "0.0.0",
+  "main": "src/index.ts",
+  "repository": "https://github.com/dhasuda/node-sdk.git",
+  "author": "dhasuda <davihasuda@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^9.0.1"
+  }
+}

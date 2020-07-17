@@ -6,6 +6,7 @@
   "author": "dhasuda <davihasuda@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@vtex/sdk-lib": "^0.0.0-alpha.0",
     "fs-extra": "^9.0.1"
   },
   "devDependencies": {

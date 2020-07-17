@@ -1,6 +1,6 @@
 import { copyFileSync, ensureFileSync } from 'fs-extra'
 import { join } from 'path'
-import { Builder, BuildContext } from './sdk-lib'
+import { Builder, BuildContext } from '@vtex/sdk-lib'
 
 const INDEX_FILE_NAME = 'application.js'
 class NodeBuilder extends Builder {

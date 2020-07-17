@@ -14,6 +14,11 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-14.0.23.tgz#676fa0883450ed9da0bb24156213636290892806"
   integrity sha512-Z4U8yDAl5TFkmYsZdFPdjeMa57NOvnaf1tljHzhouaPEp7LCj2JKkejpI1ODviIAQuW4CcQmxkQ77rnLsOOoKw==
 
+"@vtex/sdk-lib@^0.0.0-alpha.0":
+  version "0.0.0-alpha.0"
+  resolved "https://registry.yarnpkg.com/@vtex/sdk-lib/-/sdk-lib-0.0.0-alpha.0.tgz#391fc2955da57c72eab23c5b6957417d9a7994d8"
+  integrity sha512-Pgy58+YVsFtyYgI1i22Tm/PbKrAOZihtpmHTvrNAUUs0MjOens2UfNwwRTxFUbnXJ6E5klUNvtqK3MjhPhtQzQ==
+
 at-least-node@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/at-least-node/-/at-least-node-1.0.0.tgz#602cd4b46e844ad4effc92a8011a3c46e0238dc2"
